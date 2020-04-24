@@ -2,7 +2,7 @@ package curso_programacao;
 
 import java.util.Scanner;
 
-import entity.Hospedes;
+import entities.Hospedes;
 
 public class Exercicio_89 {
 

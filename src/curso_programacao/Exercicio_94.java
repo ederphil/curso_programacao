@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-import entity.Funcionario94;
+import entities.Funcionario94;
 
 public class Exercicio_94 {
 

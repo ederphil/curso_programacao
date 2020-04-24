@@ -2,9 +2,9 @@ package curso_programacao;
 
 import java.util.Scanner;
 
-import entity.Aluno;
-import entity.Funcionario;
-import entity.Retangulo;
+import entities.Aluno;
+import entities.Funcionario;
+import entities.Retangulo;
 
 public class Exercicio_68 {
 

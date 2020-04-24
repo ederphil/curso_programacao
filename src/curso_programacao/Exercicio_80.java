@@ -2,7 +2,7 @@ package curso_programacao;
 
 import java.util.Scanner;
 
-import entity.Conta;
+import entities.Conta;
 
 public class Exercicio_80 {
 
