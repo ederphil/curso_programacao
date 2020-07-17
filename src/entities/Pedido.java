@@ -87,8 +87,8 @@ public class Pedido {
 		for (PedidoItem p : pedidoItem) {
 			sb.append(p + "\n");
 		}
-
-		sb.append("Valor total: " + totalPedido());
+		sb.append("\n");
+		sb.append("Valor total: R$ " + String.format("%.2f", totalPedido()));
 
 		return sb.toString();
 	}
