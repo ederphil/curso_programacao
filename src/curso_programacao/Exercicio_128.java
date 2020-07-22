@@ -50,11 +50,11 @@ public class Exercicio_128 {
 
 		System.out.println();
 		System.out.println("PAGAMENTOS: ");
-		
-		for(Funcionario_128 func : funcList) {
+
+		for (Funcionario_128 func : funcList) {
 			System.out.println(func.getNome() + " - R$ " + String.format("%.2f", func.pagamento()));
 		}
-		
+
 		sc.close();
 
 	}
