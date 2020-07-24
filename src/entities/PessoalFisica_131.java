@@ -2,7 +2,7 @@ package entities;
 
 public class PessoalFisica_131 extends Pessoa_132 {
 
-	double gastosSaude;
+	private double gastosSaude;
 
 	public PessoalFisica_131(String nome, double rendaAnual, double gastosSaude) {
 		super(nome, rendaAnual);
